@@ -9,5 +9,6 @@ For more information, visit https://docs.google.com/presentation/d/1028VDSfW3-qV
 
 Credits:  
 Noah Mackenzie for his abstract reference image  
+Randy Raan for his (currently unused) internet connection python code  
 Google and respective websites for all other reference images  
 Stack Overflow, as always  
