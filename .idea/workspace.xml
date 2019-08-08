@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72207d0f-bd41-44da-b598-262a2ec51e30" name="Default Changelist" comment="" />
+    <list default="true" id="72207d0f-bd41-44da-b598-262a2ec51e30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/abstract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bear2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bear3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elephant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeremy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landscape.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/panda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucla.jpg" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,18 +28,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="336">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/landscape.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -131,6 +137,11 @@
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="artwork" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BlackBox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlackBox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,12 +211,12 @@
       <updated>1565079205048</updated>
       <workItem from="1565079211197" duration="518000" />
       <workItem from="1565080064088" duration="27389000" />
-      <workItem from="1565209259572" duration="9989000" />
+      <workItem from="1565209259572" duration="10250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37896000" />
+    <option name="totallyTimeSpent" value="38157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
@@ -321,10 +332,13 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        <state relative-caret-position="336">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
