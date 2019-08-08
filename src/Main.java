@@ -8,7 +8,7 @@ import javax.swing.*;
 
 public class Main {
     private static String refPath = "";
-    private static String compPath = "src/database";
+    private static String compPath = "database";
 
     private static int INF = 200000000;
 
