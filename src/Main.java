@@ -14,8 +14,8 @@ public class Main {
 
     private static int PIC_CNT = 5640;
     private static int[][] MAX_RANGE = {{70, 50}, {50, 20}}; //{base, deviation}
-    private static int MAX_HSIZE = 500;
-    private static int LIM = 130;
+    private static int MAX_HSIZE = 300;
+    private static int LIM = 110;
     private static int[] dx = {0, 1, 0, -1};
     private static int[] dy = {-1, 0, 1, 0};
 
