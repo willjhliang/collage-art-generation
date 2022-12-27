@@ -1,8 +1,5 @@
-# BlackBox
-A Java project that generates collage art with minimal human involvement  
-For more information, please check out [our presentation](https://docs.google.com/presentation/d/1028VDSfW3-qVu5LaliRejClL92qg8c3bH9Lg8ec5CoA/edit?usp=sharing)   
+# Greedy Search For Collage Art Generation
 
-Designed and programmed by Will Liang and Team BlackBox
+<img src="https://github.com/willjhliang/collage-art-generation/blob/master/out/production/artwork/bear2.jpg" height="200"/> <img src="https://github.com/willjhliang/collage-art-generation/blob/master/out/production/artwork/panda.jpg" height="200"/>
 
-![Bear](https://github.com/BitLorax/BlackBox/blob/master/out/production/artwork/bear2.jpg)
-![Panda](https://github.com/BitLorax/BlackBox/blob/master/out/production/artwork/panda.jpg)
+An algorithm that generates collage art with minimal human involvement using BFS and heuristical calculations to match color patches with similar patterns from our collection. Example outputs are included above. A few pieces are published in the Humanities+ Journal, and one won a silver key in the Scholastic Art and Writing Competition.
